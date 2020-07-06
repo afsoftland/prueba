@@ -5,3 +5,6 @@ hago un commit en remoto
 
 hago un stash local antes del pull
 'se tuvo que resolver por conflicto
+
+
+commit fuera del brncha copia
