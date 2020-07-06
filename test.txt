@@ -7,3 +7,6 @@ hago un stash local antes del pull
 'se tuvo que resolver por conflicto
 
 cambios dentro del branch copia
+
+commit fuera del brncha copia
+
