@@ -9,6 +9,6 @@ hago un stash local antes del pull
 cambios dentro del branch copia
 
 commit fuera del brncha copia
-'merge winmerge
-toque en 450, no está aún en 440
+
+toque en 450, que no está aún en 440
 
