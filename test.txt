@@ -10,5 +10,5 @@ cambios dentro del branch copia
 
 commit fuera del brncha copia
 
-toque en 450, no está aún en 440
+toque en 450, que no está aún en 440
 
